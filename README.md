@@ -1,5 +1,5 @@
 # Adventure-Works-Executive-Summary---Power-BI-Report
-I have uploaded the Power BI file final project--
+I have uploaded the Power BI file final project-- https://github.com/NeelimaDeepthi/Adventure-Works-Executive-Summary---Power-BI-Report/blob/main/Adventure-Works-executive-summary-module%205.pbix
 
 **Project Overview: ** This project involves the creation of a comprehensive Power BI report and dashboard for Adventure Works, a company looking to leverage its sales and customer data for strategic decision-making. The project demonstrates proficiency in data visualization, analysis, and the application of Power BI functionalities such as table visualizations, column charts, line charts, KPIs, forecasting, and Q&A features.
 
